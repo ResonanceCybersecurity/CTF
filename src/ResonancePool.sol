@@ -4,6 +4,8 @@ pragma solidity ^0.8.19;
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "./ResonanceStaking.sol";
 
+/// @title Resonance Solidity CTF
+/// @author Luis Arroyo & João Simões
 contract ResonancePool {
     IERC20 public token0; // RES Token
     IERC20 public token1; // USDC TOKEN
