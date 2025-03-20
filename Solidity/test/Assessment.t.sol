@@ -5,7 +5,7 @@ import {Test, console} from "forge-std/Test.sol";
 import {ResonanceStaking} from "../src/ResonanceStaking.sol";
 import {ResonancePool} from "../src/ResonancePool.sol";
 import {ResonanceToken} from "../src/ResonanceToken.sol";
-import {MockToken} from "../src/MockToken.sol";
+import {MockToken} from "../mocks/MockToken.sol";
 
 contract AssessmentTest is Test {
     ResonanceToken public resToken; // RES token

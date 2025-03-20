@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 
 /// @title Resonance Solidity CTF
-/// @author Luis Arroyo & João Simões
+/// @author Luis Arroyo
 contract ResonanceStaking is ERC721Enumerable {
     // User staking data
     struct Stake {
