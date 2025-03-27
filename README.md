@@ -1,4 +1,4 @@
-# Resonance Smart Contracts CTFs
+# Resonance Smart Contract CTFs
 
 This repository contains vulnerable smart contracts to be assessed by security enthusiasts. Instructions for each CTF are available within their respective folders.
 
