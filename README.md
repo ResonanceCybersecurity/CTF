@@ -6,6 +6,7 @@ Feel free to clone, audit, and submit your findings on personal or social media.
 
 List of available CTFs:
 - [Solidity CTF](Solidity/)
+- [NEAR CTF](NEAR/)
 
 Authors:
 - João Simões | Resonance Security
