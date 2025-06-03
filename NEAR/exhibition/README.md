@@ -1,6 +1,6 @@
 # Resonance NEAR NFT Exhibition
 
-Resonance NEAR NFT Exhibition is an arts exhibition where it is possible for artists to display their art pieces as NFTs. It is possible to rent out the art piece to the exchibition to earn a monthly passive rent.
+Resonance NEAR NFT Exhibition is an arts exhibition where it is possible for artists to display their art pieces as NFTs. It is possible to rent out the art piece to the exhibition to earn a monthly passive rent.
 
 ## How to Build Locally?
 
