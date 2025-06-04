@@ -1,4 +1,4 @@
-# Resonance NAER Exchange
+# Resonance NEAR Exchange
 
 Resonance NEAR Exchange is an NFT exchange where it is possible generate NFTs of art pieces and transfer them between artists. It is also possible to display the art pieces on the Resonance NEAR NFT Exhibition.
 
